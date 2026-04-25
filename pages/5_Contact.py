@@ -35,7 +35,7 @@ with right:
         <div style="min-height: 100px; display:flex;flex-wrap:wrap;align-content:center;gap:.35rem;">
             <a class="social-link" href="https://facebook.com/linrennocap" target="_blank">{get_icon('external_link',14)} Facebook</a>
             <a class="social-link" href="https://www.instagram.com/lilrennocap" target="_blank">{get_icon('external_link',14)} Instagram</a>
-            <a class="social-link" href="https://www.github.com" target="_blank">{get_icon('github',14)} GitHub</a>
+            <a class="social-link" href="https://github.com/itsrenecatapan-a11y" target="_blank">{get_icon('github',14)} GitHub</a>
         </div>
     """)
 
